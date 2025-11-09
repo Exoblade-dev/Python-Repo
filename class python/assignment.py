@@ -1,0 +1,9 @@
+c=2
+c+=c
+print(c)
+c*=c
+print(c)
+c/=c
+print(c)
+c-=c
+print(c)
